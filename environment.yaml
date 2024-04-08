@@ -1,0 +1,17 @@
+name: team-scale-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pip==21.2.4
+  - python==3.8
+
+  - pip:
+    - spacy
+    - streamlit
+    - PyYAML
+    - python-dotenv
+    - azure-ai-textanalytics
+    - azure-cognitiveservices-speech
+    - typing
+    - matplotlib
