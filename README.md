@@ -1,7 +1,7 @@
 # LUMOS Project
 
 ## Table of contents
-
+  - [Demo](#demo)
   - [Description](#description)
   - [Setup](#setup)
     - [Create Azure Service](#create-azure-service)
@@ -11,6 +11,10 @@
     - [Dashboard](#dashboard)
   - [Dockerization](#dockerization)
   - [Results](#results)
+
+## Demo
+
+You can watch a demo of this project here: [https://youtu.be/2qcmk1ReMVw]
 
 ## Description
 
