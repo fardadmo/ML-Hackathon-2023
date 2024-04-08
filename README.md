@@ -60,10 +60,6 @@ The audio data is stored in the data folder, and the transcribed script will be 
 ```bash
 python -m speech_to_text/speech_to_text.py
 ```
-<p align="center">
-  <img width="422" title="audio example" alt="audio example" src="https://user-images.githubusercontent.com/48161724/235021334-a3b9d519-6574-4412-a5bb-91b935bcb89e.png"><br>
-  Audio Example
- <p>
     
 ### Sentiment Analysis
 To analyze the sentiment of the acquired text, execute the following command:
